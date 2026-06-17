@@ -1,0 +1,26 @@
+{
+    "user_001": {
+        "user_id": "user_001",
+        "name": "Jane Doe",
+        "role": "Strategic AI Researcher",
+        "expertise": "Expert",
+        "preferred_output": "Detailed Analysis",
+        "research_history": [
+            "AI Orchestration",
+            "LangGraph VS CrewAI"
+        ],
+        "interests": [
+            "Agentic Workflows",
+            "Cost Efficiency"
+        ]
+    },
+    "gautham": {
+        "user_id": "gautham",
+        "name": "Default User",
+        "role": "Business Analyst",
+        "expertise": "Intermediate",
+        "preferred_output": "Executive Summary",
+        "research_history": [],
+        "interests": []
+    }
+}

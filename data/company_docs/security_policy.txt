@@ -1,0 +1,6 @@
+Title: Global Information Security Policy
+Version: 2023.1
+Preference: Open Source First
+
+Section 4.2: Software Procurement
+To minimize vendor lock-in and ensure transparency, the company prefers open-source solutions for all AI and automation initiatives. Commercial software should only be considered if no open-source alternative provides equivalent technical capabilities and security guarantees.
